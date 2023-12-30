@@ -29,3 +29,6 @@ Rather than targeting new customers, the strategy emphasizes leveraging the exis
 For this project, only the last twelve months (December 2022 to November 2023) will be used. Each file contains ride details logged by Cyclistic customers. 
 The data's reliability is affirmed by its large sample size, original source identification, comprehensiveness without critical information gaps, up-to-date relevance, and proper citation. 
 These aspects assure the credibility and integrity needed for analysis. [Link to source](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+## Process
+
